@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+}
+ a {
+    color: aliceblue;
+}
+.ul_color > li {
+    color: aliceblue;
+}
+.Skills > ul > li {
+    color: yellow
+}
+main {
+    color: white;
+    
+}
